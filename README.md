@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![leetcode](https://leetcode.com/revolmax/badges/large)](https://www.leetcode.com/users/revolmax)   
+[![leetcode](https://leetcode.card.workers.dev/revolmax?theme=dark&amp;font=source_code_pro&amp;extension=null)   
 [![codewars](https://www.codewars.com/users/revolmax/badges/large)](https://www.codewars.com/users/revolmax)   
 
 <!--
